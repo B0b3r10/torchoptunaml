@@ -116,8 +116,6 @@ def objective(trial):
         acc = evaluate(model, val_loader)
     
     return acc
-
-#def define_model(trial):
   
        
     
